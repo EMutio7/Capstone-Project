@@ -18,6 +18,7 @@ Netflix's content is predominantly Movies.
 The majority of content was added between 2016 and 2020.
 The U.S., India, and the UK are the top content-producing countries.
 The most common ratings include TV-MA, TV-14, and PG.
+
 Additionally, we built a classification model to predict content type based on metadata, achieving good performance using Random Forest.
 
 This analysis can help content strategists and data teams at streaming platforms identify trends and make informed decisions about content acquisition and regional focus.
